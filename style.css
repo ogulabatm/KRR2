@@ -1,0 +1,22 @@
+.menu ul {
+    list-style: none;
+    background-color: #e4e4e4;
+    padding: 10px;
+    margin: 0;
+    display: flex;
+    gap: 15px;
+}
+
+.menu li {
+    display: inline;
+}
+
+.menu a {
+    text-decoration: none;
+    color: black;
+}
+
+.menu a.active {
+    font-weight: bold;
+    color: blue;
+}
