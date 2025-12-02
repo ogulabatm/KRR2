@@ -5,6 +5,7 @@
     margin: 0;
     display: flex;
     gap: 15px;
+    flex-wrap: wrap;
 }
 
 .menu li {
@@ -20,3 +21,4 @@
     font-weight: bold;
     color: blue;
 }
+
